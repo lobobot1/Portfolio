@@ -1,0 +1,30 @@
+---
+import Sections from "../Sections.astro";
+import { projects } from "@cv";
+---
+
+<Sections title={"Projects"}>
+  <ul class="grid gap-4 pt-3">
+    {
+      projects.map(({ name, description, endDate, startDate }) => {
+        return (
+          <li>
+            <article class="rounded-lg border border-solid flex flex-col p-4 h-[100%]">
+              <header>
+                <h3 class="text-xl font-bold">{name}</h3>
+                <p class="text-gray-500">{description}</p>
+              </header>
+              <footer class="flex flex-wrap gap-1 text-xs"></footer>
+            </article>
+          </li>
+        );
+      })
+    }
+  </ul>
+</Sections>
+
+<style>
+    ul {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+</style>
