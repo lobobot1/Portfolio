@@ -1,0 +1,35 @@
+---
+import Sections from "../Sections.astro";
+
+import { work } from "@cv";
+---
+
+<Sections title={"Experience"}>
+  <ul class="flex flex-col gap-8 pt-3 flex-wrap">
+    {
+      work.map(({ name, startDate, endDate, position, summary }) => {
+        const starYear = new Date(startDate).getFullYear();
+        const endYear =
+          endDate !== null ? new Date(endDate).getFullYear() : "Present";
+        const years = `${starYear} - ${endYear}`;
+
+        return (
+          <li>
+            <article>
+              <header class="flex justify-between items-start mb-1">
+                <div>
+                  <h2 class="font-semibold text-xl">{name}</h2>
+                  <h3 class="capitalize font-medium text-[#333]">{position}</h3>
+                </div>
+                <time class="text-sm text-white bg-black px-2 py-1 rounded-full">{years}</time>
+              </header>
+              <footer>
+                <p>{summary}</p>
+              </footer>
+            </article>
+          </li>
+        );
+      })
+    }
+  </ul>
+</Sections>
