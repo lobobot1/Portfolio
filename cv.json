@@ -1,0 +1,270 @@
+{
+  "basics": {
+    "name": "Kevin Colmenares",
+    "label": "+2 Full Stack Developer years experience",
+    "image": "/me.webp",
+    "email": "kevincolmenaresm@gmail.com",
+    "phone": "+584242297021",
+    "url": "N/A",
+    "summary": " +2 years experience as a developer. I am a responsible person, works well in a team, responsible, focused on improving day after day, always looking to learn new things.",
+    "location": {
+      "address": "Av. Panteon",
+      "postalCode": "1010",
+      "city": "Caracas",
+      "countryCode": "VE",
+      "region": "Capital District"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kevin-colmenares",
+        "url": "https://www.linkedin.com/in/kevin-colmenares-930824204/"
+      },
+      {
+        "network": "Github",
+        "username": "lobobot1",
+        "url": "https://github.com/lobobot1"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Smart Trading Indicators",
+      "position": "Full Stack Developer",
+      "url": "https://www.smarttradingindicators.com/",
+      "startDate": "2023-12-16",
+      "endDate": null,
+      "summary": "As a full-stack programmer, I spearheaded the development of a user-friendly chatbot interface, utilizing my expertise in both front-end and back-end technologies. My contributions enabled seamless user interaction, efficient data processing, and integration with various business systems.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Directa Group",
+      "position": "analyst programmer",
+      "url": "https://directagroup.com/",
+      "startDate": "2022-12-21",
+      "endDate": "2023-03-05",
+      "summary": "As a web scraping analyst programmer, I maintained and enhanced a suite of JavaScript-based web scraping bots, ensuring their efficiency and accuracy in extracting valuable data from various websites. My contributions streamlined data collection processes and provided valuable insights for business decision-making.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Directa Group",
+      "position": "Full Stack Developer",
+      "url": "https://directagroup.com/",
+      "startDate": "2023-03-05",
+      "endDate": "2023-12-01",
+      "summary": "As a team lead, I spearheaded the development of various web projects, effectively managing a team of developers and collaborating closely with stakeholders. My expertise in JavaScript, TypeScript, Next.js, and AWS cloud services enabled me to deliver high-quality, scalable web solutions that met business requirements.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Arötech",
+      "position": "Frontend Developer",
+      "url": "N/A",
+      "startDate": "2021-06-21",
+      "endDate": "2021-09-05",
+      "summary": "As a skilled front-end developer, I leveraged my expertise in PHP, Laravel, and Blade templating to craft engaging and user-friendly web interfaces. My contributions extended beyond front-end development, encompassing back-end tasks that ensured seamless integration and data management.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UCAB",
+      "url": "https://www.ucab.edu.ve/",
+      "area": "Ing. Informatica",
+      "studyType": "Bachelor",
+      "startDate": "2017-08-16",
+      "endDate": "N/A",
+      "score": "6.0"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Scrum Foundation Professional Certificate - SFPC™",
+      "date": "2023-01-07",
+      "issuer": "CertiProf®",
+      "url": "https://www.credly.com/badges/09fc9e14-9c42-4dad-9dc3-23adfca2ecf9/public_url"
+    },
+    {
+      "name": "Program Oracle Next Education F2 T4 Back-end",
+      "date": "2023-05-12",
+      "issuer": "Alura Latam",
+      "url": "https://app.aluracursos.com/program/certificate/fdb28bdc-a45d-4c9b-8a82-88395df00904"
+    },
+    {
+      "name": "TypeScript Course: Object-Oriented Programming and Asynchrony",
+      "date": "2023-02-25",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/lobobot1/curso/2880-typescript-poo/diploma/detalle/"
+    },
+    {
+      "name": "Basic Programming Course in Go",
+      "date": "2023-04-14",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/lobobot1/curso/2232-programacion-golang/diploma/detalle/"
+    },
+    {
+      "name": "Introduction to AWS: Fundamentals of Cloud Computing",
+      "date": "2023-04-01",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/lobobot1/curso/2731-course/diploma/detalle/"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": ["Web Developer", "FrontEnd", "Responsive Design"]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": ["Web Developer", "FrontEnd", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Web Developer", "FrontEnd", "BackEnd"]
+    },
+    {
+      "name": "Node.js",
+      "level": "Master",
+      "keywords": ["Web Developer", "BackEnd"]
+    },
+    {
+      "name": "React.js",
+      "level": "Intermediate",
+      "keywords": ["Web Developer", "FrontEnd"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": ["Web Developer", "FrontEnd", "BackEnd"]
+    },
+    {
+      "name": "Go",
+      "level": "Beginner",
+      "keywords": ["BackEnd"]
+    },
+    {
+      "name": "AWS",
+      "level": "Beginner",
+      "keywords": ["BackEnd"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermediate",
+      "keywords": ["BackEnd"]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": ["BackEnd"]
+    },
+    {
+      "name": "Astro",
+      "level": "Intermediate",
+      "keywords": ["Web Developer", "FrontEnd"]
+    },
+    {
+      "name": "Express.js",
+      "level": "Intermediate",
+      "keywords": ["Web Developer", "BackEnd"]
+    },
+    {
+      "name": "Docker",
+      "level": "Beginner",
+      "keywords": ["Web Developer", "BackEnd", "FrontEnd", "FullStack"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": ["Version Control"]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "intermediate",
+      "level": "B1"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "native",
+      "level": "C2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Product Matching",
+      "startDate": "2023-04-01",
+      "endDate": "2023-12-01",
+      "description": "Developed a comprehensive web interface that facilitated product matching requests. The interface enabled users to submit requests, view matching results in clear tabular formats, and seamlessly integrate with existing business workflows.",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "N/A"
+    },
+    {
+      "name": "Landing page for a company",
+      "startDate": "2022-04-01",
+      "endDate": "2022-07-16",
+      "description": "A landing page for a dental services company was developed using blade, php, and laravel templates.",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "N/A"
+    },
+    {
+      "name": "Chatbot interface for a trading",
+      "startDate": "2023-12-16",
+      "endDate": "N/A",
+      "description": "A chatbot developed with typescript, openia, and next.js to assist and provide information about trading.",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "N/A"
+    },
+    {
+      "name": "Website Quoter",
+      "startDate": "2019-03-04",
+      "endDate": "2019-05-20",
+      "description": "A Java-based desktop application that estimated the cost of creating your dream website.",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "N/A"
+    }
+  ]
+}
